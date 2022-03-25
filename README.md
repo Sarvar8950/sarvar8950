@@ -1,8 +1,8 @@
-### Hi there I'm Sarvar 👋
+# Hi there I'm Sarvar 👋
 
- Pursuing graduation in Public Administration at Maharshi Dayanand University Rohtak 
+## Pursuing graduation in Public Administration at Maharshi Dayanand University Rohtak 
  
- Also Enrolled in Full Stack Web Development Course at Masai School
+## Also Enrolled in Full Stack Web Development Course at Masai School
  
 <!--
 **Sarvar8950/sarvar8950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
