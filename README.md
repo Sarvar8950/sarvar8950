@@ -10,13 +10,15 @@
 
 - 👯 I’m looking to collaborate on **new and challenging projects.**
 
-- 👨‍💻 All of my projects are available at [https://sarvar8950.github.io/sarvar_portfolio.github.io/](https://sarvar8950.github.io/sarvar_portfolio.github.io/)
+- 👨‍💻 All of my projects are available at <a href="https://sarvar8950.github.io/sarvar_portfolio.github.io/" target="blank">Portfolio</a> 
+<!-- - [https://sarvar8950.github.io/sarvar_portfolio.github.io/](https://sarvar8950.github.io/sarvar_portfolio.github.io/) -->
 
 - 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **sarvar8950@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Hrnf5Je5Q49AhetrRWHZRG_PduSpD3ez/view?usp=sharing](https://drive.google.com/file/d/1Hrnf5Je5Q49AhetrRWHZRG_PduSpD3ez/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Hrnf5Je5Q49AhetrRWHZRG_PduSpD3ez/view?usp=sharing" target="blank">Resume</a> 
+<!-- - [https://drive.google.com/file/d/1Hrnf5Je5Q49AhetrRWHZRG_PduSpD3ez/view?usp=sharing](https://drive.google.com/file/d/1Hrnf5Je5Q49AhetrRWHZRG_PduSpD3ez/view?usp=sharing) -->
 
 - ⚡ Fun fact **I am funny**
 
