@@ -15,13 +15,13 @@
 
 - 👯 I’m looking to collaborate on **new and challenging projects.**
 
-- 👨‍💻 All of my projects are available at [https://sarvar8950.github.io/sarvar_portfolio.github.io/](https://sarvar8950.github.io/sarvar_portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sarvar8950.github.io/sarvar_portfolio.github.io/)
 
 - 💬 Ask me about **JavaScript, React, Angular.**
 
 - 📫 How to reach me **sarvar8950@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1OCN6EXk5lynqJoQ_jV2anvTMmN4oqfNR](https://drive.google.com/drive/folders/1OCN6EXk5lynqJoQ_jV2anvTMmN4oqfNR)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/drive/folders/1OCN6EXk5lynqJoQ_jV2anvTMmN4oqfNR)
 
 - ⚡ Fun fact **I am funny.**
 
