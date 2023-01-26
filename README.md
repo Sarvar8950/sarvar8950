@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sarvar8950@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Hrnf5Je5Q49AhetrRWHZRG_PduSpD3ez/view?usp=sharing" target="blank">Resume</a> 
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1OCN6EXk5lynqJoQ_jV2anvTMmN4oqfNR?usp=sharing" target="blank">Resume</a> 
 <!-- - [https://drive.google.com/file/d/1Hrnf5Je5Q49AhetrRWHZRG_PduSpD3ez/view?usp=sharing](https://drive.google.com/file/d/1Hrnf5Je5Q49AhetrRWHZRG_PduSpD3ez/view?usp=sharing) -->
 
 - ⚡ Fun fact **I am funny**
