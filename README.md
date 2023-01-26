@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sarvar8950@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/drive/folders/1OCN6EXk5lynqJoQ_jV2anvTMmN4oqfNR)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1OCN6EXk5lynqJoQ_jV2anvTMmN4oqfNR)
 
 - ⚡ Fun fact **I am funny.**
 
